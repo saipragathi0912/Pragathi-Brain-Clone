@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Pragsyy's Mind Clone
 ---
 
 This is a blank Quartz installation.

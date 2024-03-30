@@ -1,6 +1,6 @@
 ---
-title: Pragsyy's Mind Clone
+title: Pragathi's Mind Clone
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## Thought World
+1. [Change is the only constant](obsidian://open?vault=content&file=Change%20is%20the%20only%20constant)
+2. 

@@ -8,4 +8,5 @@ I highly appreciate the efforts to open this website and check what this lil one
 1. [[Change is the only constant]]
 
 ## Asset Pricing
-1. [[Diffusion Models]]
+A good friend of mine (My Captain) recommended a course by 
+1. [[Brownian Motion]]

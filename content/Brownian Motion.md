@@ -6,6 +6,4 @@ An interesting fact about Mathematics is, that there are some significant discov
 
 ### Mathematical Explanation 
 
-Brownian Motion comes under a class of Stochastic Processes. You can find all about it here [[Stochastic Process]]
-
-
+Brownian Motion comes under a class of Stochastic Processes. You can find all about it here [[Stochastic Process]]. More about it's properties and definition will be updated soon. Stay tuned. 

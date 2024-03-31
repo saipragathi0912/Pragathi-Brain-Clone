@@ -6,4 +6,6 @@ An interesting fact about Mathematics is, that there are some significant discov
 
 ### Mathematical Explanation 
 
-Brownian Motion comes under a class of Stochastic Processes. What is a Stochastic Process? It is a collection of Random Variables. What is a Random Variable ? It's a mapping from sample space to real numbers. What is a Sample Space? It is a set of possible outcomes. How did we arrive at the possible outcomes set? We do a random experiment. What is a random experiment? It's an experiment whose outcome can't be computed with certainty. Let's take a real life example to see how we can fit it all. 
+Brownian Motion comes under a class of Stochastic Processes. You can find all about it here [[Stochastic Process]]
+
+

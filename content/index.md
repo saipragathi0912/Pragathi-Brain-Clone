@@ -10,9 +10,9 @@ I highly appreciate the efforts to open this page and check what this lil one's 
 
 If any of my opinion or content seems inconsistent, please reach out to me. I love to improve myself in whatever aspect there is. 
 
-## Thought World
+## General Thoughts
 1. [[Change is the only constant]]
 
 ## Asset Pricing
 Captain recommended a course for **Asset Pricing** by Dr. John H Cochrane. I sat down with a note and pen all excited to learn. Ended up realising that I forgot whatever my Stochastic Models teacher (Nattu) had taught me(Not Everything but yeah). This section starts with all the basics and then hopefully dives into the course.
-1. [[Brownian Motion]]
+1. [[Prerequisites]]

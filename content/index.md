@@ -15,3 +15,6 @@ If any of my opinion or content seems inconsistent, please reach out to me. I lo
 
 ## Notes
 1. [[Asset Pricing]]
+2. [[Financial Contracts]]
+3. [[Quantum Machine Learning]]
+4. 

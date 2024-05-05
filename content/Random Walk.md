@@ -21,3 +21,10 @@ P   =
 | . . . |     |     |     |     |     |     |     |     |
 | t-1   |     |     |     |     |     |     |     | 0.5 |
 | t     |     |     |     |     |     |     | 1   | 0   |
+
+
+The following figure illustrates a Random Walk
+
+![Illustration of a random walk](https://web.mit.edu/8.334/www/grades/projects/projects17/OscarMickelin/randomWalk.gif)
+
+There are quite a lot of interesting applications in the stock market which leverages the use of random walks including the Random Walk Hypothesis. 

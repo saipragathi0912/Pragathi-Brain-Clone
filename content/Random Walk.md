@@ -11,13 +11,13 @@ Once the definition of stochastic process is done, the next step is to define th
 
 As a result, the transition probability matrix would look something like this (from the perspective of player A )
 P   = 
-	{
-		0     1.    0.     ...            0 
-		 0.5     0.    0.5.     ...     0 
-		 0    0.5.     0.    0.5  ... 0 
-		 0    0.    0.    ...             1
-	}
-
-
-
-
+| T     | 0   | 1   | 2   | 3   | 4   | ... | t-1 | t   |
+|-------|-----|-----|-----|-----|-----|-----|-----|-----|
+| 0     | 0   | 1   | 0   | 0   | 0   | ... | 0   | 0   |
+| 1     | 0.5 | 0   | 0.5 | 0   | 0   | ... | 0   | 0   |
+| 2     | 0   | 0.5 | 0   | 0.5 | 0   | ... | 0   | 0   |
+| 3     | 0   | 0   | 0.5 | 0   | 0.5 | ... | 0   | 0   |
+| 4     |     |     |     |     |     |     |     |     |
+| . . . |     |     |     |     |     |     |     |     |
+| t-1   |     |     |     |     |     |     |     | 0.5 |
+| t     |     |     |     |     |     |     | 1   | 0   |

@@ -1,1 +1,1 @@
-1. [[Understanding Large Language Models]]
+This section involves notes chapter wise 

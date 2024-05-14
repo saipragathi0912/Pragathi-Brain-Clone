@@ -21,15 +21,15 @@ If any of my opinion or content seems inconsistent, please reach out to me. I lo
 ## Books to read 
 
 #### High Priority
-	1. Paul Wilmott Introduces Quantitative Finance
-	2. Build a Large Language Model from Scratch - Sebastian Raschka
-	3. Finding Alphas - Igor Tulchinsky
+1. Paul Wilmott Introduces Quantitative Finance
+2. Build a Large Language Model from Scratch - Sebastian Raschka
+3. Finding Alphas - Igor Tulchinsky
 
 #### Low Priority
-	1. Option Volatility and Pricing - Sheldon Natenberg
-	2. Options, Futures and Other Derivatives - John C Hull
-	3. Build a Large Language Model from Scratch - Sebastian Raschka
-	4. Dynamic Hedging: Managing Vanilla and Exotic Options - Nicholas Nassim Taleb
+1. Option Volatility and Pricing - Sheldon Natenberg
+2. Options, Futures and Other Derivatives - John C Hull
+3. Build a Large Language Model from Scratch - Sebastian Raschka
+4. Dynamic Hedging: Managing Vanilla and Exotic Options - Nicholas Nassim Taleb
 
 
 ## General Thoughts

@@ -31,7 +31,7 @@ If any of my opinion or content seems inconsistent, please reach out to me. I lo
 4. Dynamic Hedging: Managing Vanilla and Exotic Options - Nicholas Nassim Taleb
 5. Statistical Inference - George Casella and Roger Berger
 
-Miscellaneous
+#### Miscellaneous
 1. Beyond Order - Jordan Peterson
 2. Fooled By Randomness - Nassim Nicholas Taleb
 3. Atomic Habits - James Clear

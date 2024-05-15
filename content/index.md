@@ -28,8 +28,13 @@ If any of my opinion or content seems inconsistent, please reach out to me. I lo
 #### Low Priority
 1. Option Volatility and Pricing - Sheldon Natenberg
 2. Options, Futures and Other Derivatives - John C Hull
-3. Build a Large Language Model from Scratch - Sebastian Raschka
 4. Dynamic Hedging: Managing Vanilla and Exotic Options - Nicholas Nassim Taleb
+
+Miscellaneous
+1. Beyond Order - Jordan Peterson
+2. Fooled By Randomness - Nassim Nicholas Taleb
+3. Atomic Habits - James Clear
+4. Can't Hurt Me - David Goggins
 
 
 ## General Thoughts

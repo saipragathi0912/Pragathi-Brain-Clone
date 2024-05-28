@@ -4,3 +4,4 @@ Embedding is a mapping established from the data of interest (audio, video or te
 Word2Vec assumes the words that appear in similar context has similar meanings.
 
 The remaining part of the chapter 2 is mainly concentrated on implementation of Tokenizers. 
+Code repository for the same: https://github.com/saipragathi0912/LLM-from-scratch-python/tree/text_tokenization

@@ -23,13 +23,13 @@ If any of my opinion or content seems inconsistent, please reach out to me. I lo
 #### High Priority
 1. Paul Wilmott Introduces Quantitative Finance
 2. Build a Large Language Model from Scratch - Sebastian Raschka
-3. Finding Alphas - Igor Tulchinsky
+3. Option Volatility and Pricing - Sheldon Natenberg
+4. Options, Futures and Other Derivatives - John C Hull
 
 #### Low Priority
-1. Option Volatility and Pricing - Sheldon Natenberg
-2. Options, Futures and Other Derivatives - John C Hull
-4. Dynamic Hedging: Managing Vanilla and Exotic Options - Nicholas Nassim Taleb
-5. Statistical Inference - George Casella and Roger Berger
+1. Finding Alphas - Igor Tulchinsky
+2. Dynamic Hedging: Managing Vanilla and Exotic Options - Nicholas Nassim Taleb
+3. Statistical Inference - George Casella and Roger Berger
 
 #### Miscellaneous
 1. Beyond Order - Jordan Peterson

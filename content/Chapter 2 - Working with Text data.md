@@ -9,3 +9,9 @@ A simple tokenizer is implemented using the vocabulary of the text data being us
 
 The remaining part of the chapter 2 is mainly concentrated on implementation of Tokenizers. 
 Code repository for the same: https://github.com/saipragathi0912/LLM-from-scratch-python/tree/text_tokenization
+
+##### Miscellaneous
+Pytorch's Dataset and DataLoader class:
+![[https://drive.google.com/file/d/1fY89iq-R-V5LhnGLOkgzWZWp2fVa67L1/view?usp=drive_link]]
+Dataset -> Create datasets to train the models efficiently. It creates a custom class that defines how individual data is recorded
+DataLoader -> Handles shuffling, in different batch sizes and more stuff  

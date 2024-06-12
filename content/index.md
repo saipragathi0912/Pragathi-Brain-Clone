@@ -43,6 +43,5 @@ If any of my opinion or content seems inconsistent, please reach out to me. I lo
 
 ## Notes
 1. [[Asset Pricing]]
-2. [[Build a Large Language Model from scratch by Sebastian Raschka]]
-3. [[Value at Risk - Introduction]]
-4. 
+2. [[Value at Risk - Introduction]]
+3. 

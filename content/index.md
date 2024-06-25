@@ -44,4 +44,6 @@ If any of my opinion or content seems inconsistent, please reach out to me. I lo
 ## Notes
 1. [[Asset Pricing]]
 2. [[Value at Risk - Introduction]]
-3. 
+3. [[Building GPT - Karpathy]]
+4. [[Makemore - Karpathy]]
+5. 
